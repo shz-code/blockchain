@@ -4,7 +4,7 @@ A simple crowdfunding smart contract written in Solidity that allows users to cr
 
 ## Getting Started
 
-Solidity compiler is required to deploy the contract. You can use something like [Remix]()
+Solidity compiler is required to deploy the contract. You can use something like [Remix](https://remix.ethereum.org/)
 
 1. Open the `CrowdFunding.sol` file in your Solidity development environment
 2. Compile and deploy the contract.
