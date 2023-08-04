@@ -5,7 +5,7 @@ This contract allows an owner to deploy a lottery and collect 20% of the total a
 
 Solidity compiler is required to deploy the contract. You can use something like [Remix](https://remix.ethereum.org/)
 
-- Open the `CrowdFunding.sol` file in your Solidity development environment
+- Open the `Lottery.sol` file in your Solidity development environment
 - Compile and deploy the contract.
 - Interact with the contract using a web3 provider like Metamask or dummy Remix wallets.
 
